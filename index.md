@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="pt-br">
 
-You can use the [editor on GitHub](https://github.com/Irina-Chang/DW2A4-IFSP21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,
+        initial-scale='1.0">
+    <title>Dev.finance$</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&display=swap"
+        rel="stylesheet">
 
-### Markdown
+    <style>
+        * {
+            background-color: #00255f;
+            font-family: 'Poppins', sans-serif;
+            padding: 0.7rem;
+            text-align: center;
+        }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        h2 {
 
-```markdown
-Syntax highlighted code block
+            color: white;
+            font-weight: normal;
+        }
 
-# Header 1
-## Header 2
-### Header 3
+        a {
 
-- Bulleted
-- List
+            color: white;
+            font-weight: normal;
+        }
+    </style>
+    <title>DW2A4 - IFSP</title>
 
-1. Numbered
-2. List
+</head>
 
-**Bold** and _Italic_ and `Code` text
+<body>
 
-[Link](url) and ![Image](src)
-```
+    <h2>Atividades de DW2A4</h2>
+	<a href="./Atividades/A1-Atividade 1/index.html">Acessar dev.finance$ parte 1 </a>
+	
+    <a href="./Atividades/A2-Atividade 2/index.html">Acessar dev.finance$ parte 2 </a>
+</body>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Irina-Chang/DW2A4-IFSP21/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
