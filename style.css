@@ -1,0 +1,49 @@
+        header {
+            font-size: 0, 9rem;
+            width: 70%;
+            position: relative;
+            margin: 25px 50% 3% 50%;
+            display: flex;
+            float: inline-end;
+            border: none;
+            color: cadetblue;
+        }
+        
+        body {
+            display: list-item;
+            background-image: url("./midias/space.jpg");
+            background-position: right top;
+            background-size: auto;
+        }
+        
+        .container {
+            width: 33%;
+            height: 50%;
+            position: relative;
+            margin: 8% 5% 0;
+            align-content: space-between;
+            background-color: rgba(109, 67, 158, 0.904);
+            color: #fff;
+            padding: 10px;
+            border-radius: 7px;
+        }
+        
+        li {
+            height: 25%;
+            border-radius: 5px;
+            border: 1px solid;
+            border-color: lightseagreen;
+            background-color: rgba(211, 21, 186, 0.39);
+            align-items: baseline;
+            font-size: 0.9rem;
+            padding: 25px 0% 5% 5%;
+            margin-bottom: 3px;
+        }
+        
+        a {
+            color: cadetblue;
+            font-family: sans-serif, Tahoma;
+            font-weight: bold;
+            font-style: oblique;
+            font-display: initial;
+        }
